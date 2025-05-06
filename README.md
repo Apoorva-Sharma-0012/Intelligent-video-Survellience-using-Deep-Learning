@@ -1,4 +1,8 @@
 # Intelligent-video-Survellience-using-Deep-Learning
-
-A violence detection alert system's goal is to immediately identify and notify authorities or other relevant parties when violent incidents or hazardous situations arise. Such a system often makes use of a variety of technologies, including audio and video analysis, machine learning algorithms, and sensor networks, to identify and examine behavioral and action patterns that may be signs of impending violence.
-This is our final year Major Project which we have made together to show that how deep learning can be implemented to detect that the violenece occured during the video or not.
+• Designed and implemented a deep learning-based model for video analysis as part of a final-year major project, achieving
+accurate detection of violent events containing video footage.
+• Applied a deep learning-based violence detection system using MobileNet V2, integrating the Telepot API for automated
+alerts, enabling real-time identification and notification of violent incidents.
+• Integrated the Telepot API with the violence detection system, allowing users to receive instant alerts on Telegram devices,
+ensuring timely notifications of detected violent activities.
+• Processed and transformed video datasets into smaller frames to optimize data preparation for deep learning model training.
